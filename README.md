@@ -7,7 +7,7 @@ map-to-object
 
 Converts Map to plain object.
 
-**Warning**: Can lose data. Associative objects don't know the difference between `1` and `'1'`, among other problems.
+**Warning**: Can lose data. Objects don't know the difference between `1` and `'1'`, among other problems.
 
 ```js
 import mapToObject from 'map-to-object'
