@@ -22,8 +22,8 @@
   "author": "ivan k <ivan@sq10.net>",
   "license": "MIT",
   "devDependencies": {
-    "babel-eslint": "^5.0.0-beta8",
-    "babel-preset-es2015-node": "^4.0.0"
+    "babel-eslint": "^7.0.0",
+    "babel-preset-es2015-node": "^6.1.1"
   },
   "standard": {
     "parser": "babel-eslint"
