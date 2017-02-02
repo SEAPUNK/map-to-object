@@ -1,6 +1,8 @@
 map-to-object
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/map-to-object.svg)](https://greenkeeper.io/)
+
 **Requires Node 4.x or newer**
 
 `npm install map-to-object`
